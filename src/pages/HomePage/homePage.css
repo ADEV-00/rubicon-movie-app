@@ -1,0 +1,6 @@
+.wrapper {
+  width: 1200px;
+  max-width: calc(100% - 20px);
+  margin: 0 auto;
+  height: 100%;
+}
